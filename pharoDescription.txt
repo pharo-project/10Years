@@ -4,7 +4,7 @@ Pharo is a versatile language used in various domains such as web applications, 
 
 Pharo was created by M. Denker and S. Ducasse in April 2008 from a fork of Alan Kay and Dan Ingalls's Squeak project. Pharo vision is to propose a simple and uniform language with powerful and malleable tools for a large range of applications ranging from microkernels to large and complex applications. The goal of Pharo is to support innovative business and to create an ecosystem where innovation can bloom.
 
-To achieve this vision Pharo offers a large set of open-source libraries and frameworks.
+To achieve this vision, Pharo offers a large set of open-source libraries and frameworks.
 With in average 70 worldwide developers, Pharo is continuously improving and its community is steadily growing.
 
 Pharo 7.0 (scheduled for December 2018) introduces full and advanced support for Git and a full process to fully bootstrap its core and automatically rebuild it.
