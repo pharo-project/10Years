@@ -1,0 +1,37 @@
+- Web applications
+	(health insurance) http://netstyle.ch
+	(JOB) http://pharo.org/success/Daywork
+	(business competition) http://pharo.org/success/Contestia
+	(language training) http://pharo.org/success/321via
+	location de machine outils http://pharo.org/success/AllStocker
+
+- Financial management
+	- ATMs in Moscow http://pharo.org/success/ATMsInMoscowStreets
+	https://www.youtube.com/watch?v=So9MV66BupI&frags=pl%2Cwn
+	- http://pharo.org/success/FINWorks
+	- Portfolio investment http://pharo.org/success/Quuve
+	- http://pharo.org/success/PharoAtCSOB
+	
+- Gestions
+	- Dentist http://pharo.org/success/ZweidenkerCliPro
+	- Avocats lawTrackers
+	- Point of sale: http://pharo.org/success/IPOS
+	- Planning http://pharo.org/success/yesplan http://www.yesplan.be/en
+- Telecommunication
+	- http://pharo.org/success/Sysmocom
+	- Network analysis http://pharo.org/success/CableExpertise 
+	
+- Social data journalism
+	http://pharo.org/success/SocialDataJournalism
+	http://pharo.org/success/Grafoscopio (panana papers)
+
+Other
+	- geofence marketing http://pharo.org/success/MultiCity
+	- trucks tracking http://pharo.org/success/BetaNine
+	
+	
+- Fun
+	role playing assistant
+		http://pharo.org/success/Daywork
+	IOT 
+		https://www.youtube.com/watch?v=0H9of7PQet0&frags=pl%2Cwn

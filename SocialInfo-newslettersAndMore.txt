@@ -1,0 +1,20 @@
+Blogs:
+	
+	https://pharoweekly.wordpress.com
+		Everything you wanted to know about http://www.pharo.org without being forced to read 1000 mails
+	https://astares.blogspot.com
+	
+Newletters Archive
+	To see selected announces summarized month
+	https://us11.campaign-archive.com/home/?u=6f667565c2569234585a7be77&id=048680a940
+		Pharo 60 release
+		https://us11.campaign-archive.com/?u=6f667565c2569234585a7be77&id=0d630adb6d
+		
+		
+Discord Channel
+	Meet the community live at 
+		http://discord.gg/Sj2rhxn
+		
+Mailings-lists
+	http://pharo.org/community
+
