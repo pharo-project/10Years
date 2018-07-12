@@ -8,6 +8,7 @@
 - Financial management
 	- ATMs in Moscow http://pharo.org/success/ATMsInMoscowStreets
 	https://www.youtube.com/watch?v=So9MV66BupI&frags=pl%2Cwn
+	https://youtu.be/60sL8_OJ0lg
 	- http://pharo.org/success/FINWorks
 	- Portfolio investment http://pharo.org/success/Quuve
 	- http://pharo.org/success/PharoAtCSOB
