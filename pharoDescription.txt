@@ -18,7 +18,7 @@ Teacher Corner: A freely accessible MOOC (in French, English, Spanish and Japane
 
 Pharo this is
      - 465 packages
-     - more than 3000 thousands external projects
+     - more than three thousands external projects
      - 98 committers
      - 30 universities teaching with Pharo
      - 16 world-wide research groups
