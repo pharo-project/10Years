@@ -1,11 +1,11 @@
 
 Pharo ( http://www.pharo.org ) is a reflective dynamically typed pure object language. 
-Pharo is a versatile language used in various domain such as web applications, banking, investment, modeling complex business, telecommunication systems and many more such as interactive application, IoT.
+Pharo is a versatile language used in various domains such as web applications, banking, investment, modeling complex business, telecommunication systems and many more such as interactive application, IoT.
 
 Pharo was created by M. Denker and S. Ducasse in April 2008 from a fork of Alan Kay and Dan Ingalls's Squeak project. Pharo vision is to propose a simple and uniform language with powerful and malleable tools for a large range of applications ranging from microkernels to large and complex applications. The goal of Pharo is to support innovative business and to create an ecosystem where innovation can bloom.
 
 To achieve this vision Pharo offers a large set of open-source libraries and frameworks.
-With in average 70 worldwide developers, Pharo is continously improving and its community is steadily growing.
+With in average 70 worldwide developers, Pharo is continuously improving and its community is steadily growing.
 
 Pharo 7.0 (scheduled for December 2018) introduces full and advanced support for Git and a full process to fully bootstrap its core and automatically rebuild it.
 
@@ -15,14 +15,14 @@ Pharo complete stack is open-source under the MIT license. Since 2013 an industr
 Tech Corner:
 Pharo full syntax fits on a single postcard. The object model is (1) everything is an object, (2) objects are instances of classes. (3) Methods are public virtual. (4) Attributes are protected. (5) There is only single inheritance. 
 
-Teacher Corner: A freely accessible MOOC (in french, english, spanish and japanese) composed of 80 small videos, exercises and a project is available at http://mooc.pharo.org. It has been successfully followed by more than 5500 learners. Several books are available at http://books.pharo.org 
+Teacher Corner: A freely accessible MOOC (in French, English, Spanish and Japanese) composed of 80 small videos, exercises and a project is available at http://mooc.pharo.org. It has been successfully followed by more than 5500 learners. Several books are available at http://books.pharo.org 
 
 Pharo this is
      - 465 packages
      - more than 3000 thousands external projects
      - 98 committers
      - 30 universities teaching with Pharo
-     - 16 world wide research groups
-     - http://mooc.pharo.org a mooc on 7 weeks
+     - 16 world-wide research groups
+     - http://mooc.pharo.org a MOOC on 7 weeks
      - http://consortium.pharo.org an international consortium of companies and institutes
 
