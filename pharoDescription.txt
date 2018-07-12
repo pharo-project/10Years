@@ -7,19 +7,19 @@ Pharo was created by M. Denker and S. Ducasse in April 2008 from a fork of Alan 
 To achieve this vision, Pharo offers a large set of open-source libraries and frameworks.
 With on average 70 worldwide developers, Pharo is continuously improving and its community is steadily growing.
 
-Pharo 7.0 (scheduled for December 2018) introduces full and advanced support for Git and a full process to fully bootstrap its core and automatically rebuild it.
+Pharo 7.0 (scheduled for December 2018) introduces full and advanced support for Git and an entire process to fully bootstrap its core and automatically rebuild it.
 
 Business corner: 
 Pharo complete stack is open-source under the MIT license. Since 2013 an industrial consortium has been set up. It provides a legal frame to support the development of Pharo and hires 
 
 Tech Corner:
-Pharo full syntax fits on a single postcard. The object model is (1) everything is an object, (2) objects are instances of classes. (3) Methods are public virtual. (4) Attributes are protected. (5) There is only single inheritance. 
+Pharo full syntax fits on a single postcard. Offers an elegant pure object model with advanced run-time reflectivity, live customizable objects inspection, dynamic inheritance, easy AST and call stack manipulation, resumable exceptions and many more. It is based on a fast multiplatform virtual machine written mostly in the language itself. Pharo uses single inheritance with optional traits. The development environment provides the exceptional debugging experience where it blurs differences between your code and development tools.
 
 Teacher Corner: A freely accessible MOOC (in French, English, Spanish and Japanese) composed of 80 small videos, exercises and a project is available at http://mooc.pharo.org. It has been successfully followed by more than 5500 learners. Several books are available at http://books.pharo.org 
 
 Pharo this is
      - 465 packages
-     - more than three thousands external projects
+     - more than 3000 community maintained libraries and projects
      - 98 committers
      - 30 universities teaching with Pharo
      - 16 world-wide research groups
