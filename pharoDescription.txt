@@ -1,4 +1,5 @@
 Pharo ( http://www.pharo.org ) is a reflective dynamically typed pure object language with an advanced development environment. 
+
 Pharo is a versatile language used in various domains such as web applications, banking, investment, modeling complex business, telecommunication systems and many more such as interactive application, IoT.
 
 Pharo was created by M. Denker and S. Ducasse in April 2008 from a fork of Alan Kay and Dan Ingalls's Squeak project. Pharo vision is to propose a simple and uniform language with powerful and malleable tools for a broad range of applications ranging from microkernels to large and complex applications. The goal of Pharo is to support innovative business and to create an ecosystem where innovation can bloom.
